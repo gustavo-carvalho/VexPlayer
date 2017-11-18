@@ -14,6 +14,7 @@
 		4547EC4D1FC09FA80037DEA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4547EC4C1FC09FA80037DEA7 /* Assets.xcassets */; };
 		4547EC501FC09FA80037DEA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4547EC4E1FC09FA80037DEA7 /* LaunchScreen.storyboard */; };
 		4547EC5B1FC09FA90037DEA7 /* VexPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4547EC5A1FC09FA90037DEA7 /* VexPlayerTests.swift */; };
+		4547EC661FC0AE020037DEA7 /* Credentials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4547EC651FC0AE020037DEA7 /* Credentials.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		4547EC561FC09FA90037DEA7 /* VexPlayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VexPlayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4547EC5A1FC09FA90037DEA7 /* VexPlayerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VexPlayerTests.swift; sourceTree = "<group>"; };
 		4547EC5C1FC09FA90037DEA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4547EC651FC0AE020037DEA7 /* Credentials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Credentials.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				4547EC4C1FC09FA80037DEA7 /* Assets.xcassets */,
 				4547EC4E1FC09FA80037DEA7 /* LaunchScreen.storyboard */,
 				4547EC511FC09FA80037DEA7 /* Info.plist */,
+				4547EC651FC0AE020037DEA7 /* Credentials.swift */,
 			);
 			path = VexPlayer;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 			files = (
 				4547EC481FC09FA80037DEA7 /* SecondViewController.swift in Sources */,
 				4547EC441FC09FA80037DEA7 /* AppDelegate.swift in Sources */,
+				4547EC661FC0AE020037DEA7 /* Credentials.swift in Sources */,
 				4547EC461FC09FA80037DEA7 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
